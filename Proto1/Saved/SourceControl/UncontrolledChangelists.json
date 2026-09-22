@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1/Content/LR/LR_Playground.umap",
+				"C:/Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1/Content/LR/LR_Assets/SM_Platform.uasset",
+				"C:/Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1/Content/LR/LR_Materials/M_Basic.uasset"
+			]
+		}
+	]
+}
