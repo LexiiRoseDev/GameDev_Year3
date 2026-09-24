@@ -1754,3 +1754,266 @@ Sampler Limit: 32
 [2026.09.24-20.21.22:439][344]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.09.24-20.21.22:439][344]LogShaderCompilers: Display: Material Cache Hits: 24 (14%)
 [2026.09.24-20.21.22:439][344]LogShaderCompilers: Display: ================================================
+[2026.09.24-20.23.06:850][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.24-20.23.06:853][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.021
+[2026.09.24-20.23.06:854][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/lambert1] ([1] browsable assets)...
+[2026.09.24-20.23.06:968][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Leigh-Folder/Leigh-Porps/lambert1.lambert1]
+[2026.09.24-20.23.06:968][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/lambert1]
+[2026.09.24-20.23.06:984][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Leigh-Folder/Leigh-Porps/lambert1_Auto1
+[2026.09.24-20.23.06:984][657]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/lambert1_Auto14F2662954E2FF12B54E4B69AEBE14348.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Autosaves/Game/Leigh-Folder/Leigh-Porps/lambert1_Auto1.uasset'
+[2026.09.24-20.23.06:985][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pCube2] ([1] browsable assets)...
+[2026.09.24-20.23.07:016][657]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Leigh-Folder/Leigh-Porps/pCube2.pCube2]
+[2026.09.24-20.23.07:016][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pCube2]
+[2026.09.24-20.23.07:026][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Leigh-Folder/Leigh-Porps/pCube2_Auto1
+[2026.09.24-20.23.07:026][657]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pCube2_Auto15EFA175F42C13E9213EF658C34778114.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Autosaves/Game/Leigh-Folder/Leigh-Porps/pCube2_Auto1.uasset'
+[2026.09.24-20.23.07:027][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pSphere2] ([1] browsable assets)...
+[2026.09.24-20.23.07:043][657]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Leigh-Folder/Leigh-Porps/pSphere2.pSphere2]
+[2026.09.24-20.23.07:043][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pSphere2]
+[2026.09.24-20.23.07:053][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Leigh-Folder/Leigh-Porps/pSphere2_Auto1
+[2026.09.24-20.23.07:053][657]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pSphere2_Auto136C8F3484399112F84F33587FD83B831.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Autosaves/Game/Leigh-Folder/Leigh-Porps/pSphere2_Auto1.uasset'
+[2026.09.24-20.23.07:054][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pCube3] ([1] browsable assets)...
+[2026.09.24-20.23.07:070][657]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Leigh-Folder/Leigh-Porps/pCube3.pCube3]
+[2026.09.24-20.23.07:070][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pCube3]
+[2026.09.24-20.23.07:078][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Leigh-Folder/Leigh-Porps/pCube3_Auto1
+[2026.09.24-20.23.07:078][657]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pCube3_Auto107F5E9EB4B4F08D79D7100ACF28BE885.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Autosaves/Game/Leigh-Folder/Leigh-Porps/pCube3_Auto1.uasset'
+[2026.09.24-20.23.07:079][657]LogFileHelpers: Auto-saving content packages took 0.226
+[2026.09.24-20.23.27:467][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.337463
+[2026.09.24-20.23.28:474][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.24-20.23.28:474][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.003601, Update Interval: 315.377655
+[2026.09.24-20.28.49:532][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 998.401672
+[2026.09.24-20.28.50:532][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.24-20.28.50:532][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 999.067444, Update Interval: 320.623810
+[2026.09.24-20.34.22:855][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1331.723145
+[2026.09.24-20.34.23:855][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.24-20.34.23:855][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.390015, Update Interval: 300.461426
+[2026.09.24-20.39.54:728][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1663.596802
+[2026.09.24-20.39.55:728][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.24-20.39.55:728][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1664.263306, Update Interval: 307.926880
+[2026.09.24-20.40.59:476][332]LogSlate: Window 'Save Level As' being destroyed
+[2026.09.24-20.40.59:554][332]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.24-20.40.59:555][332]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.24-20.40.59:555][332]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.24-20.40.59:555][332]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.24-20.40.59:555][332]LogWorldPartition: Display: WorldPartition initialize took 229 us (total: 155.549 ms)
+[2026.09.24-20.40.59:565][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl_ThirdPerson" FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Lvl_ThirdPerson.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.09.24-20.40.59:584][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.09.24-20.40.59:594][332]LogSavePackage: Moving output files for package: /Game/Lvl_ThirdPerson
+[2026.09.24-20.40.59:594][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Lvl_ThirdPerson6F99147B4ECC82CF276EA68DC4C38D53.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Lvl_ThirdPerson.umap'
+[2026.09.24-20.40.59:597][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.24-20.40.59:603][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA
+[2026.09.24-20.40.59:603][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/R8L7GQXCHQGMMKBPTBJTNACD13E703423ECB1CCB1BA383A0F41F5F.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset'
+[2026.09.24-20.40.59:610][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A
+[2026.09.24-20.40.59:610][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/UKIMD8EYGPZFS8OC6GX24AD7C42CA3474CEE1F07E6E1A95A1D41BC.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset'
+[2026.09.24-20.40.59:618][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R
+[2026.09.24-20.40.59:618][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/X5MT1GOX9C5UUGZAKRVC3REC3D9F864040EB9018DAAD95AB6F9814.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R.uasset'
+[2026.09.24-20.40.59:626][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM
+[2026.09.24-20.40.59:626][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/79QZQ7KG2RXNWMD6RSPKUMECDA5D764BA757B12D14A9A970780CEB.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM.uasset'
+[2026.09.24-20.40.59:635][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31
+[2026.09.24-20.40.59:635][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/UYSRPQ5SOYIFVLEQINPH31C94C54F54FD59B39A30CD68B982BC10A.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset'
+[2026.09.24-20.40.59:643][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE
+[2026.09.24-20.40.59:643][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/2U2IE6JXO1320Q32RJQKSE5E8FE85D489A555BBCFEF6BC10EA2A42.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset'
+[2026.09.24-20.40.59:651][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D
+[2026.09.24-20.40.59:651][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/JDOWWCJ7DZVSHT4Y29GQ4DB12EDFBA46660EE66319158FCC1D2831.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset'
+[2026.09.24-20.40.59:658][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11
+[2026.09.24-20.40.59:658][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/9YGDW7FMEY1CZD31VUYO112B0E84FA48EA0C6BF44294A5847F300E.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset'
+[2026.09.24-20.40.59:665][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM
+[2026.09.24-20.40.59:665][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/QEPSHOMS1K2ANUR3LXWOJME6F69B174AD76F121386BCB67BF7B8B8.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM.uasset'
+[2026.09.24-20.40.59:673][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O
+[2026.09.24-20.40.59:673][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/DYUIEBPX2N8UFXT326WX2O8D1028BA4C327B52A2EDCBA486A5E795.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset'
+[2026.09.24-20.40.59:681][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM
+[2026.09.24-20.40.59:682][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/9XTUAMN5S6UUCFB5K0ZGZMD3E1C5234A7EF853952E6CA40266710D.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM.uasset'
+[2026.09.24-20.40.59:688][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH
+[2026.09.24-20.40.59:688][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/NTRPN55OWWUSD03K29ZOSH8B37C5C240DF7A795CAFA98B9E3F52AA.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset'
+[2026.09.24-20.40.59:696][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I
+[2026.09.24-20.40.59:696][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/3LNK9WKCBL4YVMWIBXQZ1IB656E66745FDA34C0F5B82882440E5F8.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset'
+[2026.09.24-20.40.59:704][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE
+[2026.09.24-20.40.59:704][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/XWEMBL7KZTNQP83W1KTMXED66466C041ECA780E995EAAD970E1BD2.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE.uasset'
+[2026.09.24-20.40.59:712][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE
+[2026.09.24-20.40.59:712][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/L159AMTR83MORHTF2GEOKE730757644628FAA115AAE5AB97930EE6.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset'
+[2026.09.24-20.40.59:720][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6
+[2026.09.24-20.40.59:720][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/790AP8RYBMX9YBLGTW6WE614D0EB8F4272F13A6D3C808C98544E6D.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset'
+[2026.09.24-20.40.59:727][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA
+[2026.09.24-20.40.59:727][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/I205QOSSXONYWBP69RVMVA8C07204D4615F1C8AF7229ACAE7CAE4F.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset'
+[2026.09.24-20.40.59:739][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1
+[2026.09.24-20.40.59:739][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/3IO0LF8AOO4YLSEAEN2JO12BA53DCC4DC82881EB3962AC11811EBC.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1.uasset'
+[2026.09.24-20.40.59:747][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX
+[2026.09.24-20.40.59:747][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/BJR5SDQDQW7QDFFPNUUMNXF03BF4124751497060B25292161FC0EA.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX.uasset'
+[2026.09.24-20.40.59:754][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2
+[2026.09.24-20.40.59:754][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/ETKAO35ANVW90XFH3J8GJ296C1F59F4D57425B4D9E2689A1E35063.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset'
+[2026.09.24-20.40.59:761][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7
+[2026.09.24-20.40.59:761][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/ZAAGYIUQZ2W6WEO3HPXAX73885DAE344BCF45BA63730919A7EF481.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset'
+[2026.09.24-20.40.59:768][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK
+[2026.09.24-20.40.59:768][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/KAT90QYQLFOHNMOF9BEDZKDEA7BA5D482B528B35395EAAAAB70F25.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK.uasset'
+[2026.09.24-20.40.59:776][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K
+[2026.09.24-20.40.59:776][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/HFL05AWIVBP8M8UXTV4H5K34818E9B4BDE1B7C931C10961FFC57D0.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset'
+[2026.09.24-20.40.59:785][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD
+[2026.09.24-20.40.59:785][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/77SUGCMHUBU5E7FP1DLCVD27C54D904E89C1AD5A0D4DACA7A55397.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset'
+[2026.09.24-20.40.59:792][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK
+[2026.09.24-20.40.59:792][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/OT5UOZ3WBJ9P30TU3DBDEKCC75169A47A0053E2EBECC8080BDE63B.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset'
+[2026.09.24-20.40.59:804][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR
+[2026.09.24-20.40.59:805][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/SN8KJL01L24VVIYC52MNFR0FBFDC614DF98206E2B2DDBFB48681BD.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset'
+[2026.09.24-20.40.59:812][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ
+[2026.09.24-20.40.59:812][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/C5UDZYKFL5M0YW62JXMPIZ766711FC4957F463413E3796ED42C260.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset'
+[2026.09.24-20.40.59:820][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV
+[2026.09.24-20.40.59:820][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/W5DNM2FP1ON7VGU0C2BGMVA4A312074271CC6497CD1B8E69B93282.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV.uasset'
+[2026.09.24-20.40.59:828][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP
+[2026.09.24-20.40.59:828][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/OCW0UZT4ANZZD9YHEAOMAPB02A60A647681D0E108343AE27C24A48.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset'
+[2026.09.24-20.40.59:835][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7
+[2026.09.24-20.40.59:836][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/IHUOIGG1MW1YZY097JJ8O7B68D17984582AE770D3FC2AE8FBCA971.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7.uasset'
+[2026.09.24-20.40.59:844][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF
+[2026.09.24-20.40.59:844][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/RW3P9HUUCOCG5TL3TPG6XF865D4B8C46B956F5074E6FAE0E387061.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset'
+[2026.09.24-20.40.59:852][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I
+[2026.09.24-20.40.59:852][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/1OONKTGJMLVBN21M6JE59IBFCA71D1424776C8DFB72AB71A729F8C.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I.uasset'
+[2026.09.24-20.40.59:861][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB
+[2026.09.24-20.40.59:861][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/C0UVMH95QVQO1KMTVK7MSB3565569749B5C095E316ADA76AE52D0B.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset'
+[2026.09.24-20.40.59:868][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR
+[2026.09.24-20.40.59:868][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/XXZLD30WH49IXWEHJXSVARA634F7954EE4A1923358F8A30859C905.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR.uasset'
+[2026.09.24-20.40.59:876][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP
+[2026.09.24-20.40.59:876][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/XX060WNO6GEZU5BZQCLZPP8611FC0544B7EF0C29EC77B6A543C00C.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset'
+[2026.09.24-20.40.59:883][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI
+[2026.09.24-20.40.59:883][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/FHUVUALB8C8XRJ0PY9XXTIB833B6CA46067AC7A32842983B362247.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset'
+[2026.09.24-20.40.59:890][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO
+[2026.09.24-20.40.59:890][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/SKCKQTQDTE8ZNW6C0FCBRO20DD13224CC7089DE1062FB8BF878B07.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset'
+[2026.09.24-20.40.59:897][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG
+[2026.09.24-20.40.59:897][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/29Z6AXUGZPZ0CXHLK2DICG4B91A40149ED68027041EBB0A4154A19.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG.uasset'
+[2026.09.24-20.40.59:904][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0
+[2026.09.24-20.40.59:904][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/AV0JKCFBVPU58UEBGB0GC03E3B5ED941EF13B7856CF8B7C273A1DD.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset'
+[2026.09.24-20.40.59:911][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H
+[2026.09.24-20.40.59:911][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/OCR348BHEJWLHO72TR249HC3166C284FF8AA18D4C59F90CF507BF2.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H.uasset'
+[2026.09.24-20.40.59:919][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP
+[2026.09.24-20.40.59:919][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/1K6D4FIEJMOF50LSVJKFMPC85D76904C14274403111C9594406509.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP.uasset'
+[2026.09.24-20.40.59:927][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU
+[2026.09.24-20.40.59:927][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/1F7R5WQFM2D9KH7A94JFBU4AB889974ED6F698883571984AA56340.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset'
+[2026.09.24-20.40.59:936][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV
+[2026.09.24-20.40.59:936][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Q8CQM512VVS7UZZW0KQRSVCE6559AD4104B09FB2682190EBBEBC89.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset'
+[2026.09.24-20.40.59:944][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP
+[2026.09.24-20.40.59:944][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/4L4W0MLV9WFUGRTMUBLBOP7B67406E4752E1232FC5FCAEC8A6324A.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset'
+[2026.09.24-20.40.59:951][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW
+[2026.09.24-20.40.59:951][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/LKN4IB4C3UPW62GHBEKTIW5ED8559A4A71DF8697A2018FA11EA719.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset'
+[2026.09.24-20.40.59:958][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC
+[2026.09.24-20.40.59:958][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/MGVQPE8M923OBBJLZBI1PCFA1965494F4EA392A4D5B98AA1185F90.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC.uasset'
+[2026.09.24-20.40.59:966][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53
+[2026.09.24-20.40.59:966][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/IL99N1JAI1J4A2DFQBQL5347DD53974B202ED17E7BDB94BE949815.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53.uasset'
+[2026.09.24-20.40.59:973][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG
+[2026.09.24-20.40.59:973][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/XTDQUHCYJJV6JCH4OJSVLG9FCC438A49109AD9119DFEA88753A429.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset'
+[2026.09.24-20.40.59:980][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2
+[2026.09.24-20.40.59:980][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/PES0ONLF01PSQTJCC5USD2AB73A8AA416532FE41D640B1FBE366C5.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset'
+[2026.09.24-20.40.59:990][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE
+[2026.09.24-20.40.59:990][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/LRQT09TOYHOXK9DY22EIKEEDB4B64E47487A67B6C580941E261350.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE.uasset'
+[2026.09.24-20.40.59:996][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4
+[2026.09.24-20.40.59:997][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/297QBXCKTP06G7NIHIULK47AE4789B4479B9636DAA8AACD0CF765B.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4.uasset'
+[2026.09.24-20.41.00:005][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF
+[2026.09.24-20.41.00:005][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/6ZCCZ1F7ZO6DM3C8OLVGTF94DCF1634B51F841147EA1AC715DA255.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset'
+[2026.09.24-20.41.00:012][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT
+[2026.09.24-20.41.00:013][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/HZ5WNBFZRJYQPUA6X8TVVTD1D598A24EA85D530FB30A8891D066C4.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset'
+[2026.09.24-20.41.00:020][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.09.24-20.41.00:020][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Q7CPP7VHOXBAMAJI90W6260967529043537B1155452182C9EEFECA.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.09.24-20.41.00:029][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK
+[2026.09.24-20.41.00:029][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/EPTYZCFZWXT7Z7XYKZ88XKCB653A924EEFBAAE559984AD21DFA396.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset'
+[2026.09.24-20.41.00:037][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L
+[2026.09.24-20.41.00:037][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/395Y4QE4IIEWI3KSE3SB6L9B2AE7B64925D620BDFD4BAE4CDB4A10.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset'
+[2026.09.24-20.41.00:045][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM
+[2026.09.24-20.41.00:045][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/VKFLMM0CV8ZCC0P3TQGTTM17A758DC4A6BE14E17888DB806E93DEC.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset'
+[2026.09.24-20.41.00:052][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36
+[2026.09.24-20.41.00:052][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/KLCRMXKI9WR2P0GDY96C368AFF82C44FFC61B57E97C29B5524E6F8.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset'
+[2026.09.24-20.41.00:060][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P
+[2026.09.24-20.41.00:060][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/NQBPXM7AM8N39CBW4ZT57P48F2EF4D43B3F9093346C190E8172A45.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset'
+[2026.09.24-20.41.00:067][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C
+[2026.09.24-20.41.00:067][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/6T1XG4EDG4ZEE1U9HMYL4C8569BB9F43567FFBD7DEAE83D7D4B7A7.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset'
+[2026.09.24-20.41.00:074][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1
+[2026.09.24-20.41.00:074][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/EDRUPW3EOYDDSI6HNSIVT141C95E594D9EB77616C6BB8710F1E20E.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset'
+[2026.09.24-20.41.00:081][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0
+[2026.09.24-20.41.00:081][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/RFQP83S9K0LC7IW8CXS6C0788FFE564AF55B93B7255599274C2D3A.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0.uasset'
+[2026.09.24-20.41.00:089][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE
+[2026.09.24-20.41.00:089][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/W7S9610Y7RWELGF93FZYAE93A15F624F67F33F4C124A9DE4DBCE4A.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset'
+[2026.09.24-20.41.00:096][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA
+[2026.09.24-20.41.00:096][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/QXUZ4IXFNKHCYFWERA1HQAB92DEF114000B2A9ACD0FFBC87835CFD.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset'
+[2026.09.24-20.41.00:105][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS
+[2026.09.24-20.41.00:105][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/TYFCMQ9MC435YW6FZBF5FSF430D4114297CB1D0DF6B0AEF28FDC92.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset'
+[2026.09.24-20.41.00:113][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/0S/FIZ9DLZXAT20J8IEN3KN5W
+[2026.09.24-20.41.00:113][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/FIZ9DLZXAT20J8IEN3KN5WF10E82CB4F2CC091685C569BBE927220.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/0S/FIZ9DLZXAT20J8IEN3KN5W.uasset'
+[2026.09.24-20.41.00:120][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/D/G8/7CKID2XXUJTI2M35V4BJDW
+[2026.09.24-20.41.00:120][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/7CKID2XXUJTI2M35V4BJDWDE0F59AE4FDFFF3A7FB176A1DE389EDC.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/D/G8/7CKID2XXUJTI2M35V4BJDW.uasset'
+[2026.09.24-20.41.00:127][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/8/2U/PMCY8I9O2Z2M8O39XF4ZQV
+[2026.09.24-20.41.00:127][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/PMCY8I9O2Z2M8O39XF4ZQV26BCEE8946E388FE5BE9438594DCB6C5.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/8/2U/PMCY8I9O2Z2M8O39XF4ZQV.uasset'
+[2026.09.24-20.41.00:136][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/C/Z2/I05PHGA4VZGCR3FMNC15XZ
+[2026.09.24-20.41.00:136][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/I05PHGA4VZGCR3FMNC15XZ8426CF6249D3F1F5D9056FB137E72E12.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/C/Z2/I05PHGA4VZGCR3FMNC15XZ.uasset'
+[2026.09.24-20.41.00:144][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lvl_ThirdPerson/7/IB/Z9H9I1NTYJCO66CE12A4JV
+[2026.09.24-20.41.00:144][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Z9H9I1NTYJCO66CE12A4JVEF1C6B0740605EE1BEFF4DA14C9F7D8E.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/Lvl_ThirdPerson/7/IB/Z9H9I1NTYJCO66CE12A4JV.uasset'
+[2026.09.24-20.41.00:151][332]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0
+[2026.09.24-20.41.00:151][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/1UP2MCOIYXC0GTW985R4K0B5DBCB15458B3C76623C379A50B46E60.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalObjects__/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset'
+[2026.09.24-20.41.00:158][332]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL
+[2026.09.24-20.41.00:158][332]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/O6OLZU4WSCI3YRJS922SWL611378BD4DA110E54A2E30B793D3A9BA.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalObjects__/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset'
+[2026.09.24-20.41.00:163][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 566.366 ms (total: 792.525 ms)
+[2026.09.24-20.41.00:180][332]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.693
+[2026.09.24-20.41.00:180][332]Cmd: MAP LOAD FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.24-20.41.00:209][332]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-20.41.00:210][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-20.41.00:210][332]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.24-20.41.00:239][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-20.41.00:242][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.09.24-20.41.00:244][332]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-20.41.00:245][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-20.41.00:245][332]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.24-20.41.00:262][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.09.24-20.41.00:277][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.09.24-20.41.00:278][332]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.24-20.41.00:279][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.09.24-20.41.00:279][332]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.24-20.41.00:281][332]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.24-20.41.00:281][332]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.24-20.41.00:281][332]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.24-20.41.00:300][332]LogWorldPartition: Display: WorldPartition initialize took 19.257 ms (total: 174.806 ms)
+[2026.09.24-20.41.00:345][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.24-20.41.00:363][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.24-20.41.00:375][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.24-20.41.00:376][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.523ms to complete.
+[2026.09.24-20.41.00:437][332]LogContentValidation: Display: Starting to validate 73 assets
+[2026.09.24-20.41.00:437][332]LogContentValidation: Enabled validators:
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.24-20.41.00:437][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.24-20.41.00:438][332]AssetCheck: /Game/Lvl_ThirdPerson Validating asset
+[2026.09.24-20.41.00:488][332]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.24-20.41.00:617][333]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.24-20.43.04:005][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.09.24-20.43.04:012][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.24-20.43.04:042][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/lambert1] ([1] browsable assets)...
+[2026.09.24-20.43.04:043][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/lambert1]
+[2026.09.24-20.43.04:043][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leigh-Folder/Leigh-Porps/lambert1" FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/lambert1.uasset" SILENT=true
+[2026.09.24-20.43.04:050][567]LogSavePackage: Moving output files for package: /Game/Leigh-Folder/Leigh-Porps/lambert1
+[2026.09.24-20.43.04:050][567]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/lambert1046335EA457CA6981C08C7996890B6C4.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/lambert1.uasset'
+[2026.09.24-20.43.04:051][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pCube2] ([1] browsable assets)...
+[2026.09.24-20.43.04:051][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pCube2]
+[2026.09.24-20.43.04:051][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leigh-Folder/Leigh-Porps/pCube2" FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pCube2.uasset" SILENT=true
+[2026.09.24-20.43.04:059][567]LogSavePackage: Moving output files for package: /Game/Leigh-Folder/Leigh-Porps/pCube2
+[2026.09.24-20.43.04:059][567]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pCube2ACC5B20049316FB7B0D364A9CD746ABA.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pCube2.uasset'
+[2026.09.24-20.43.04:061][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pSphere2] ([1] browsable assets)...
+[2026.09.24-20.43.04:061][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pSphere2]
+[2026.09.24-20.43.04:061][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leigh-Folder/Leigh-Porps/pSphere2" FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pSphere2.uasset" SILENT=true
+[2026.09.24-20.43.04:068][567]LogSavePackage: Moving output files for package: /Game/Leigh-Folder/Leigh-Porps/pSphere2
+[2026.09.24-20.43.04:068][567]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pSphere26E922A8942E5A4E1DFD233974227E616.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pSphere2.uasset'
+[2026.09.24-20.43.04:069][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Leigh-Folder/Leigh-Porps/pCube3] ([1] browsable assets)...
+[2026.09.24-20.43.04:069][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Leigh-Folder/Leigh-Porps/pCube3]
+[2026.09.24-20.43.04:069][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leigh-Folder/Leigh-Porps/pCube3" FILE="C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pCube3.uasset" SILENT=true
+[2026.09.24-20.43.04:076][567]LogSavePackage: Moving output files for package: /Game/Leigh-Folder/Leigh-Porps/pCube3
+[2026.09.24-20.43.04:076][567]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/pCube3D62F951B4B89BA1B2472CB8D4B3D97EF.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/pCube3.uasset'
+[2026.09.24-20.43.04:087][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.274 ms (total: 866.799 ms)
+[2026.09.24-20.43.04:118][567]LogContentValidation: Display: Starting to validate 4 assets
+[2026.09.24-20.43.04:118][567]LogContentValidation: Enabled validators:
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.24-20.43.04:118][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.24-20.43.04:118][567]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/lambert1 Validating asset
+[2026.09.24-20.43.04:118][567]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/pCube2 Validating asset
+[2026.09.24-20.43.04:118][567]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/pSphere2 Validating asset
+[2026.09.24-20.43.04:118][567]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/pCube3 Validating asset
+[2026.09.24-20.43.04:136][567]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/SourceControl/UncontrolledChangelists.json
