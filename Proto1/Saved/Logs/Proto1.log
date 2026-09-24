@@ -2205,3 +2205,19 @@ Sampler Limit: 32
 [2026.09.24-21.22.23:122][261]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/Clocks/PresantClock_BigHand Validating asset
 [2026.09.24-21.22.23:122][261]AssetCheck: /Game/Leigh-Folder/Leigh-Porps/Clocks/PresantClock_SmallHand Validating asset
 [2026.09.24-21.22.23:147][261]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.24-21.25.15:319][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.24-21.25.15:367][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.24-21.25.15:383][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.09.24-21.25.15:397][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.24-21.25.15:405][683]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/IB/Z9H9I1NTYJCO66CE12A4JV
+[2026.09.24-21.25.15:405][683]LogSavePackage: Moving 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Saved/Z9H9I1NTYJCO66CE12A4JV90FCBE164D3C8D12207415863847AA42.tmp' to 'C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/IB/Z9H9I1NTYJCO66CE12A4JV.uasset'
+[2026.09.24-21.25.15:417][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.572 ms (total: 1.87 sec)
+[2026.09.24-21.25.15:444][683]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.24-21.25.15:444][683]LogContentValidation: Enabled validators:
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.24-21.25.15:444][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.24-21.25.15:444][683]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
