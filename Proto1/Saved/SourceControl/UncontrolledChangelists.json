@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/temp/100754342/GameDev_Year3/Proto1/Content/MAIN/Levels/L_MainMenu.umap",
+				"C:/temp/100754342/GameDev_Year3/Proto1/Content/MAIN/Widgets/WBP_MainMenu.uasset",
+				"C:/temp/100754342/GameDev_Year3/Proto1/Content/MAIN/Widgets/WBP_Settings.uasset",
 				"C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/Leigh-Folder/Leigh-Porps/openPBR_shader1.uasset",
 				"C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
 				"C:/Users/kas/Documents/GitHub/GameDev_Year3/Proto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/0S/FIZ9DLZXAT20J8IEN3KN5W.uasset",
