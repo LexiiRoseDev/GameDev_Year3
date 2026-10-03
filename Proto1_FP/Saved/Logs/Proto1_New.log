@@ -1323,3 +1323,88 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.03-20.08.39:131][ 85]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.10.03-20.08.39:131][ 85]LogShaderCompilers: Display: Material Cache Hits: 32 (21%)
 [2026.10.03-20.08.39:131][ 85]LogShaderCompilers: Display: ================================================
+[2026.10.03-20.10.36:927][117]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.03-20.10.36:928][117]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.03-20.10.39:758][308]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.10.03-20.11.08:687][ 69]LogStaticMesh: Display: Building static mesh Cylinder_0A72317D (Required Memory Estimate: 0.109482 MB)...
+[2026.10.03-20.11.08:687][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAIN/Assets/Cylinder_0A72317D.Cylinder_0A72317D
+[2026.10.03-20.11.08:692][ 69]LogStaticMesh: Built static mesh [0.01s] /Game/MAIN/Assets/Cylinder_0A72317D.Cylinder_0A72317D
+[2026.10.03-20.11.08:693][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAIN/Assets/Cylinder_0A72317D.Cylinder_0A72317D as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D843AE3EA1A6B50703_1417278079
+[2026.10.03-20.11.08:900][ 69]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.03-20.11.08:989][ 70]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.10.03-20.11.11:681][234]Cmd: DELETE
+[2026.10.03-20.11.11:681][234]Cmd: ACTOR DELETE
+[2026.10.03-20.11.11:697][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.03-20.11.11:720][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.03-20.11.11:726][234]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.10.03-20.11.16:675][570]LogContentBrowser: Attempting asset rename: Cylinder_0A72317D -> SM_Gear
+[2026.10.03-20.11.16:797][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.03-20.11.16:797][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAIN/Assets/SM_Gear] ([1] browsable assets)...
+[2026.10.03-20.11.16:847][570]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MAIN/Assets/SM_Gear.SM_Gear]
+[2026.10.03-20.11.16:847][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/Assets/SM_Gear]
+[2026.10.03-20.11.16:847][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/Assets/SM_Gear" FILE="../../../../../../Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1_FP/Content/MAIN/Assets/SM_Gear.uasset" SILENT=true
+[2026.10.03-20.11.16:859][570]LogSavePackage: Moving output files for package: /Game/MAIN/Assets/SM_Gear
+[2026.10.03-20.11.16:859][570]LogSavePackage: Moving '../../../../../../Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1_FP/Saved/SM_Gear08EA0A5049FB4876C3E59AA81969DD0B.tmp' to '../../../../../../Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1_FP/Content/MAIN/Assets/SM_Gear.uasset'
+[2026.10.03-20.11.16:860][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.387 ms (total: 2.67 sec)
+[2026.10.03-20.11.16:903][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.03-20.11.16:930][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.03-20.11.16:953][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.03-20.11.17:031][570]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.03-20.11.17:031][570]LogContentValidation: Enabled validators:
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.03-20.11.17:031][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.03-20.11.17:031][570]AssetCheck: /Game/MAIN/Assets/SM_Gear Validating asset
+[2026.10.03-20.11.17:075][570]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/roseo/Documents/Uni_Stuff/Year_3/GameDev_Year3/Proto1_FP/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.03-20.11.21:826][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 712.858337
+[2026.10.03-20.11.21:999][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.03-20.11.22:000][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 713.018372, Update Interval: 329.409454
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: ================================================
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Total job queries 565, among them cache hits 72 (12.74%), DDC hits 406 (71.86%), Duplicates 70 (12.39%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Tracking 423 distinct input hashes that result in 308 distinct outputs (72.81%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: RAM used: 3.90 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Shaders Compiled: 17
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Average time worker was idle: 115.28 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 3.37 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Job life time (pending + execution): average 1.73 s, max 3.44
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Shader code size: total 178.732 KiB, numShaders 17, average 10.514 KiB, min 5.309 KiB, max 18.43 KiB
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.31 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.23%
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Average processing rate: 1.38 jobs/sec
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Total thread time: 23.18 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Total thread preprocess time: 20.711 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Percentage time preprocessing: 89.35%
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.235305
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.85 sec, max 2.85 sec, min 2.85 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.77 sec, max 2.08 sec, min 1.21 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.48 sec, max 1.81 sec, min 1.15 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.15 sec, max 1.21 sec, min 1.07 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 38.18% of total time (compiled    5 times, average 1.77 sec, max 2.08 sec, min 1.21 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.80% of total time (compiled    4 times, average 1.15 sec, max 1.21 sec, min 1.07 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 12.77% of total time (compiled    2 times, average 1.48 sec, max 1.81 sec, min 1.15 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.31% of total time (compiled    1 times, average 2.85 sec, max 2.85 sec, min 2.85 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.05% of total time (compiled    3 times, average 0.85 sec, max 0.99 sec, min 0.71 sec)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: === Material stats ===
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Materials Translated:    155
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Material Translation Only: 0.10 s (44%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: Material Cache Hits: 32 (21%)
+[2026.10.03-20.11.39:357][175]LogShaderCompilers: Display: ================================================
+[2026.10.03-20.16.56:751][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1047.779175
+[2026.10.03-20.16.57:751][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.03-20.16.57:751][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1048.445557, Update Interval: 348.681915
+[2026.10.03-20.19.39:182][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.10.03-20.19.39:184][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.026
