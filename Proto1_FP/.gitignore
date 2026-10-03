@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# Rider / JetBrains
+.idea/
+
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal build files
+*.xcodeproj
+*.xcworkspace
+
+# Logs and crash dumps
+*.log
+*.dmp
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build outputs
+Build/*
+
+# Keep platform build files that may be needed
+!Build/**/*.ico
+!Build/**/*.png
+!Build/**/*.jpg
+!Build/**/*.jpeg
+!Build/**/*.bmp
+!Build/**/*.wav
+!Build/**/*.ttf
+
+# Optional: ignore local config files
+*.user
+*.userprefs

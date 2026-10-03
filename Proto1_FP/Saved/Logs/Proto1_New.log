@@ -1408,3 +1408,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.03-20.16.57:751][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1048.445557, Update Interval: 348.681915
 [2026.10.03-20.19.39:182][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2026.10.03-20.19.39:184][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.026
+[2026.10.03-20.22.56:137][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1407.161377
+[2026.10.03-20.22.57:142][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.03-20.22.57:142][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1407.826416, Update Interval: 300.937531
